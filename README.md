@@ -1,16 +1,30 @@
-### Hi there 👋
+## 🙋‍♂️ About me
 
-<!--
-**imjohnbo/imjohnbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm John Bohannon, a Partner Engineer at GitHub and currently based in the Carolinas. I've been tinkering with computers since reading [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319): mostly embedded devices, APIs, and the web.
 
-Here are some ideas to get you started:
+For fun, I lead a local programmers group, travel with family, read, and play instruments 🤓 🏃‍♂️ 📚 🎸 🐻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+
+A few based on the [GitHub developer platform](https://docs.github.com/en/developers):
+- [Octochat GCP](https://github.com/github-developer/octochat-gcp): Demo GitHub App for privately messaging with your GitHub followers 🐱
+- [Issue Bot](https://github.com/imjohnbo/issue-bot): GitHub Actions powered Issue Bot 🦾
+- [Ok to Test](https://github.com/imjohnbo/ok-to-test): Example workflow configuration showing how to use GitHub Actions secrets in pull requests from forks 🍴🔑
+- [GitHub Polls Action](https://github.com/imjohnbo/gh-polls-bot-action): Automatically create polls in GitHub issues using GitHub Actions. 📊
+
+## 🗣 Speaking
+
+- ["Automating CI/CD pipelines with GitHub Actions and Google Cloud"](https://resources.github.com/webcasts/Automating-CI-CD-Actions-Google-Cloud-thankyou/), December 2020
+- ["Terraform Foundations"](https://github.com/imjohnbo/gpg-terraform-foundations), October 2020
+- ["Secure GitOps Workflows with GitHub Actions and HashiCorp Vault"](https://www.hashicorp.com/resources/secure-gitops-workflows-with-github-actions-and-hashicorp-vault), August 2020
+- ["Continuous Delivery to AWS with GitHub Actions"](https://www.youtube.com/watch?v=KJNj37ZXPqE), December 2019
+- "Building blocks: Creating your own GitHub Actions with JavaScript", November 2019
+- "Try Ionic in Your Next Mobile App", October 2017
+- "Percolation w/ Weighted Quick Union Find", September 2017
+
+## ✍️ Writing
+
+- ["How to Build GitHub Apps For Fun and Profit"](https://dev.to/github/building-github-apps-for-fun-and-profit-4mid), dev.to
+- ["Building Your First GitHub Action"](https://devblogs.microsoft.com/devops/building-your-first-github-action/), Azure DevOps Blog
+- ["GitHub Actions self-hosted runners on Google Cloud"](https://github.blog/2020-08-04-github-actions-self-hosted-runners-on-google-cloud/), GitHub Blog
+- Blogging, https://imjohnbo.com

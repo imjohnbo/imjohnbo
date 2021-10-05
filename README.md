@@ -14,9 +14,11 @@ A few based on the [GitHub developer platform](https://docs.github.com/en/develo
 
 ## 🗣 Speaking
 
+- ["So You're New to Programming?"](https://docs.google.com/presentation/d/e/2PACX-1vRzoJPa4STjOZyqtuSVz1Acw2SUrTr3EQOt3vSAkIhLrvGDPytmWVOyigEWAtzWfVIIOYC4_juTPTsk/pub?start=false&loop=false&delayms=3000), October 2021
 - ["Automating CI/CD pipelines with GitHub Actions and Google Cloud"](https://resources.github.com/webcasts/Automating-CI-CD-Actions-Google-Cloud-thankyou/), December 2020
 - ["Terraform Foundations"](https://github.com/imjohnbo/gpg-terraform-foundations), October 2020
 - ["Secure GitOps Workflows with GitHub Actions and HashiCorp Vault"](https://www.hashicorp.com/resources/secure-gitops-workflows-with-github-actions-and-hashicorp-vault), August 2020
+- ["Open Source 101: Automating all your open source software workflows"](https://github.com/imjohnbo/101-start-here), March 2020
 - ["Continuous Delivery to AWS with GitHub Actions"](https://www.youtube.com/watch?v=KJNj37ZXPqE), December 2019
 - "Building blocks: Creating your own GitHub Actions with JavaScript", November 2019
 - "Try Ionic in Your Next Mobile App", October 2017

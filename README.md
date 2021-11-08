@@ -28,6 +28,7 @@ A few based on the [GitHub developer platform](https://docs.github.com/en/develo
 
 ## ✍️ Writing
 
+- ["GitHub Marketplace welcomes its 10,000th action"](https://github.blog/2021-10-21-github-marketplace-welcomes-its-10000th-action/), GitHub Blog
 - ["How to Build GitHub Apps For Fun and Profit"](https://dev.to/github/building-github-apps-for-fun-and-profit-4mid), dev.to
 - ["Building Your First GitHub Action"](https://devblogs.microsoft.com/devops/building-your-first-github-action/), Azure DevOps Blog
 - ["GitHub Actions self-hosted runners on Google Cloud"](https://github.blog/2020-08-04-github-actions-self-hosted-runners-on-google-cloud/), GitHub Blog

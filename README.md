@@ -14,7 +14,7 @@ A few based on the [GitHub developer platform](https://docs.github.com/en/develo
 
 ## 🗣 Speaking
 
-- ["Algorithms | Binary Search"](https://docs.google.com/presentation/d/e/2PACX-1vR4nGg8aWy69ZUqr6fJO8SY6Nhxld9_PZfVO4p8oqwLZn8Ov8VxAheGfzTHmjn5dr4abJKJ3ynrrkI2/pub?start=false&loop=false&delayms=3000)
+- ["Algorithms | Binary Search"](https://docs.google.com/presentation/d/e/2PACX-1vR4nGg8aWy69ZUqr6fJO8SY6Nhxld9_PZfVO4p8oqwLZn8Ov8VxAheGfzTHmjn5dr4abJKJ3ynrrkI2/pub?start=false&loop=false&delayms=3000), November 2021
 - ["So You're New to Programming?"](https://docs.google.com/presentation/d/e/2PACX-1vRzoJPa4STjOZyqtuSVz1Acw2SUrTr3EQOt3vSAkIhLrvGDPytmWVOyigEWAtzWfVIIOYC4_juTPTsk/pub?start=false&loop=false&delayms=3000), October 2021
 - ["Panel: 'How do people find and use technology?'"](https://www.postman.com/postman-galaxy/how-do-people-find-and-use-technology/), February 2021
 - ["Automating CI/CD pipelines with GitHub Actions and Google Cloud"](https://resources.github.com/webcasts/Automating-CI-CD-Actions-Google-Cloud-thankyou/), December 2020

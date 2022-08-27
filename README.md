@@ -14,6 +14,7 @@ A few based on the [GitHub developer platform](https://docs.github.com/en/develo
 
 ## 🗣 Speaking
 
+- Create your own Alfred workflow with JavaScript, August 2022
 - ["Algorithms | Binary Search"](https://docs.google.com/presentation/d/e/2PACX-1vR4nGg8aWy69ZUqr6fJO8SY6Nhxld9_PZfVO4p8oqwLZn8Ov8VxAheGfzTHmjn5dr4abJKJ3ynrrkI2/pub?start=false&loop=false&delayms=3000), November 2021
 - ["So You're New to Programming?"](https://docs.google.com/presentation/d/e/2PACX-1vRzoJPa4STjOZyqtuSVz1Acw2SUrTr3EQOt3vSAkIhLrvGDPytmWVOyigEWAtzWfVIIOYC4_juTPTsk/pub?start=false&loop=false&delayms=3000), October 2021
 - ["Panel: 'How do people find and use technology?'"](https://www.postman.com/postman-galaxy/how-do-people-find-and-use-technology/), February 2021

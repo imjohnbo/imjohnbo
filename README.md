@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About me
 
-Hi! I'm John Bohannon, a Senior Software Engineer at GitHub. I've been tinkering with computers since reading [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319): mostly embedded devices, APIs, and the web.
+Hi! I'm John Bohannon, a Senior Software Engineering Manager at GitHub. I've been tinkering with computers since reading [Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319): mostly embedded devices, APIs, and the web.
 
 For fun, I explore my city, travel with family, read, and play instruments 🤓 🏃‍♂️ 📚 🎸 🐻.
 

@@ -30,7 +30,7 @@ A few based on the [GitHub developer platform](https://docs.github.com/en/develo
 
 ## ✍️ Writing
 
-- ["Partner Engineering: The Missing Manual"](https://dev.to/imjohnbo/partner-engineering-the-missing-manual-36if), dev.to
+- ["Partner Engineering: The Missing Manual"](https://imjohnbo.com/partner-engineering-the-missing-manual/), dev.to (--> personal blog)
 - ["GitHub Marketplace welcomes its 10,000th action"](https://github.blog/2021-10-21-github-marketplace-welcomes-its-10000th-action/), GitHub Blog
 - ["How to Build GitHub Apps For Fun and Profit"](https://dev.to/github/building-github-apps-for-fun-and-profit-4mid), dev.to
 - ["Building Your First GitHub Action"](https://devblogs.microsoft.com/devops/building-your-first-github-action/), Azure DevOps Blog
